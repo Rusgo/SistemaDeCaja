@@ -1,0 +1,121 @@
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe.config
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.pdb
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.AssemblyReference.cache
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Properties.Resources.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.GenerateResource.cache
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.exe
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.pdb
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Form1.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Productos.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Categorias.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Venta.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Clientes.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.dll
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.xml
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.CopyComplete
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Marcas.resources
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe.manifest
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.application
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.exe.manifest
+C:\Users\Escuela Especial\source\repos\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.application
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe.config
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe.manifest
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.application
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.exe
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\GestionNegocio.pdb
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.pdb
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.xml
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\System.Data.SQLite.xml
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Form1.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Properties.Resources.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Categorias.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Clientes.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Marcas.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Productos.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Ventanas.Venta.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.GenerateResource.cache
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.exe.manifest
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.application
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.csproj.CopyComplete
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.exe
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.pdb
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\EnvDTE.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\stdole.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Reportes.ReporteProductos.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Reportes.Deudores.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Reportes.DeudaPorPersona.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Reportes.VentasDia.resources
+C:\Users\Facu\Desktop\GestionNegocio\GestionNegocio\obj\Debug\GestionNegocio.Reportes.VentasMes.resources
